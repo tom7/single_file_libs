@@ -321,7 +321,7 @@ Single-header C files with clause-less licenses are highlighted.
 *misc*    |[Hedley](https://nemequ.github.io/hedley/)                                                                          **(1   C, PD)**          |**Compiler portability, optimization, static analysis, etc.**
 *misc*    |[MakeID.h](https://www.humus.name/3D/MakeID.h)                                                                        (1 C++, PD)            |Allocate/deallocate small integer IDs efficiently
 *misc*    |[Mmu](https://github.com/CN-xLeaves/mmu)                                                                              (2   C, MIT)           |Memory management and data structure toolset
-*misc*    |[OpenGA](https://github.com/Arash-codedev/openGA)                                                                     (1 C++, MPL2)          |A C++ Generic Algorithm solver library
+*misc*    |[OpenGA](https://github.com/Arash-codedev/openGA)                                                                     (1 C++, MPL2)          |A C++ Genetic Algorithm solver library
 *misc*    |[PlusCallback](https://github.com/codeplea/pluscallback)                                                              (1 C++, ZLIB)          |Function/method callbacks
 *misc*    |[Process.h](https://github.com/sheredom/process.h)                                                                  **(1   C, PD)**          |**Process control API**
 *misc*    |[QR-Code-generator](https://github.com/nayuki/QR-Code-generator)                                                      (2   C, MIT)           |QR Code generator
